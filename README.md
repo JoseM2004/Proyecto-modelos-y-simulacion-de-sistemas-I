@@ -1,5 +1,5 @@
 # Integrantes del equipo
-- José Miguel Monsalve Marín 
+- José Miguel Monsalve Marín\n 
   CC: 1038062019
   Programa: Ingeniería de Sistemas
   
