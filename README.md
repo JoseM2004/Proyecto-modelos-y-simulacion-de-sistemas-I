@@ -10,8 +10,6 @@ Se agrega el segundo archivo 02 - preprocesado.ipynb el cual tiene todo el prepr
 https://www.youtube.com/watch?v=wC6qpGJRVZM
 
 # Tercera entrega
-Se agregan 2 preprocesados adicionales en los notebooks 04, 10. Los notebooks siguientes a los anterior mencionados contienen el mismo preprocesado solo que para el archivo de test.csv
-
 Generamos varios modelos (notebooks 06, 07, 08, 09, 12) con diferentes metodos de preprocesado (notebooks 02, 03, 04, 05)
 Generamos un modelo de XGBoost usando el preprocesado que se encuentra en los notebooks 10 y 11 (Notebook 99)
 
