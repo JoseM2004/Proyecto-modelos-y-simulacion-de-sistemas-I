@@ -13,5 +13,5 @@ https://www.youtube.com/watch?v=wC6qpGJRVZM
 Generamos varios modelos (notebooks 06, 07, 08, 09, 12) con diferentes metodos de preprocesado (notebooks 02, 03, 04, 05)
 Generamos un modelo de XGBoost usando el preprocesado que se encuentra en los notebooks 10 y 11 (Notebook 99)
 
-# Video de la entrega:
+## Video de la entrega:
 https://www.youtube.com/watch?v=rhG9yz33ZI4
